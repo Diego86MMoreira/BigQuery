@@ -28,10 +28,6 @@ Conteúdo:
 - Google BigQuery: manipulação de dados;
 - Google Big Query: consultas avançadas.
 
-
-- 
-
-
 ---
 
 ## 📜 Certificado
